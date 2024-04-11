@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_desc_text_size">16sp</dimen>
+    <dimen name="config_item_margin_top">20dp</dimen>
+    <dimen name="config_item_margin_left">20dp</dimen>
+    <dimen name="spinner_min_width">100dp</dimen>
+    <dimen name="caption_margin_top">30dp</dimen>
+</resources>

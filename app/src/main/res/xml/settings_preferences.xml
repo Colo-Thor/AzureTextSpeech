@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/subscription_info">
+        <EditTextPreference
+            android:key="subscription_key"
+            android:summary="@string/subscription_key_summary"
+            android:title="@string/subscription_key" />
+        <EditTextPreference
+            android:defaultValue="southeastasia"
+            android:key="subscription_region"
+            android:summary="@string/subscription_region_summary"
+            android:title="@string/subscription_region" />
+    </PreferenceCategory>
+</PreferenceScreen>
